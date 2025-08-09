@@ -1,6 +1,6 @@
 # Pokémon Color Classifier 
 
-This project demonstrates a complete computer vision pipeline for classifying Pokémon images by their primary color using deep learning. The workflow is implemented in the Jupyter notebook [`ACM_aiml.ipynb`](ACM_aiml.ipynb).
+This project demonstrates a complete computer vision pipeline for classifying Pokémon images by their primary color using deep learning. The workflow is implemented in the Jupyter notebook.
 
 ## Overview
 
